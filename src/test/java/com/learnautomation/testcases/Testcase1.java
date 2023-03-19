@@ -12,7 +12,7 @@ public class Testcase1 {
 	
 	
 	@Test
-	@Parameters("url2")
+	@Parameters("url1")
 	public void test1(String url) {
 		
 		System.out.println("Testcase1");
