@@ -12,7 +12,7 @@ public class Testcase1 {
 	
 	
 	@Test
-	@Parameters("url1")
+	@Parameters("url2")
 	public void test1(String url) {
 		
 		System.out.println("Testcase1");
@@ -26,6 +26,7 @@ public class Testcase1 {
 		Assert.assertEquals(actualvalue, actualvalue);
 		
 		driver.close();
+		//git checking
 	}
 	
 	@Test
