@@ -27,7 +27,7 @@ public class Testcase1 {
 		
 		driver.close();
 		//git checking
-		//final checkin
+		//final checking
 	}
 	
 	@Test
