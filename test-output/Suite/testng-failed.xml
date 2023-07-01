@@ -6,7 +6,7 @@
     <classes>
       <class name="com.learnautomation.testcases.Testcase1">
         <methods>
-          <include name="test1" invocation-numbers="0"/>
+          <include name="test1"/>
         </methods>
       </class> <!-- com.learnautomation.testcases.Testcase1 -->
     </classes>
